@@ -1,0 +1,1 @@
+var json_capital_6 = {"type":"FeatureCollection","name":"capital_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"CITY_NAME":"Madrid","pob":"3334730","fundacion":1561.0,"moneda":"euro","idioma":"español"},"geometry":{"type":"Point","coordinates":[-3.690969467163086,40.4422187805174]}}]}
